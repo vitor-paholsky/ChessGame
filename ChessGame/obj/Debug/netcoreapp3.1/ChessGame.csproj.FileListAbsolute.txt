@@ -1,0 +1,13 @@
+C:\Users\Dev\source\repos\ChessGame\ChessGame\bin\Debug\netcoreapp3.1\ChessGame.exe
+C:\Users\Dev\source\repos\ChessGame\ChessGame\bin\Debug\netcoreapp3.1\ChessGame.deps.json
+C:\Users\Dev\source\repos\ChessGame\ChessGame\bin\Debug\netcoreapp3.1\ChessGame.runtimeconfig.json
+C:\Users\Dev\source\repos\ChessGame\ChessGame\bin\Debug\netcoreapp3.1\ChessGame.runtimeconfig.dev.json
+C:\Users\Dev\source\repos\ChessGame\ChessGame\bin\Debug\netcoreapp3.1\ChessGame.dll
+C:\Users\Dev\source\repos\ChessGame\ChessGame\bin\Debug\netcoreapp3.1\ChessGame.pdb
+C:\Users\Dev\source\repos\ChessGame\ChessGame\obj\Debug\netcoreapp3.1\ChessGame.csproj.AssemblyReference.cache
+C:\Users\Dev\source\repos\ChessGame\ChessGame\obj\Debug\netcoreapp3.1\ChessGame.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\ChessGame\ChessGame\obj\Debug\netcoreapp3.1\ChessGame.AssemblyInfo.cs
+C:\Users\Dev\source\repos\ChessGame\ChessGame\obj\Debug\netcoreapp3.1\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\ChessGame\ChessGame\obj\Debug\netcoreapp3.1\ChessGame.dll
+C:\Users\Dev\source\repos\ChessGame\ChessGame\obj\Debug\netcoreapp3.1\ChessGame.pdb
+C:\Users\Dev\source\repos\ChessGame\ChessGame\obj\Debug\netcoreapp3.1\ChessGame.genruntimeconfig.cache
